@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites name="Test Suite1" time="4" tests="2" failures="0" errors="0">
+    <testsuite name="Test Suite1" tests="2" failures="0" errors="0" time="4" timestamp="2019-10-23 12:32:37" hostname="tringapps - 10.1.0.104" id="Test Suites/Test Suite1">
+        <properties>
+            <property name="deviceName" value=""/>
+            <property name="devicePlatform" value=""/>
+            <property name="logFolder" value="/Users/tringapps/Katalon Studio/WebServiceProject1/Reports/20191023_123232/Test Suite1/20191023_123232"/>
+            <property name="logFiles" value="/Users/tringapps/Katalon Studio/WebServiceProject1/Reports/20191023_123232/Test Suite1/20191023_123232/execution0.log"/>
+            <property name="attachments" value=""/>
+            <property name="hostName" value="tringapps - 10.1.0.104"/>
+            <property name="hostAddress" value="10.1.0.104"/>
+            <property name="os" value="Mac OS X 64bit"/>
+            <property name="katalonVersion" value="6.3.3.11"/>
+        </properties>
+        <testcase name="Test Cases/Sample API1/ListUsers" classname="Test Cases/Sample API1/ListUsers" status="PASSED">
+            <system-out>2019-10-23 12:32:38 - [TEST_CASE][PASSED] - Test Cases/Sample API1/ListUsers: Test Cases/Sample API1/ListUsers
+
+2019-10-23 12:32:38 - [TEST_STEP][PASSED] - sendRequest(findTestObject("ListUsersRequest")): Send request successfully
+
+2019-10-23 12:32:40 - [MESSAGE][INFO] - HAR: /Users/tringapps/Katalon Studio/WebServiceProject1/Reports/20191023_123232/Test Suite1/20191023_123232/requests/main/0.har
+
+2019-10-23 12:32:40 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/Sample API1/CreateUser" classname="Test Cases/Sample API1/CreateUser" status="PASSED">
+            <system-out>2019-10-23 12:32:40 - [TEST_CASE][PASSED] - Test Cases/Sample API1/CreateUser: Test Cases/Sample API1/CreateUser
+
+2019-10-23 12:32:41 - [TEST_STEP][PASSED] - sendRequest(findTestObject("CreateUser")): Send request successfully
+
+2019-10-23 12:32:41 - [MESSAGE][INFO] - HAR: /Users/tringapps/Katalon Studio/WebServiceProject1/Reports/20191023_123232/Test Suite1/20191023_123232/requests/main/1.har
+
+2019-10-23 12:32:41 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <system-out>2019-10-23 12:32:37 - [TEST_SUITE][INCOMPLETE] - Test Suite1: null</system-out>
+        <system-err>2019-10-23 12:32:37 - [TEST_SUITE][INCOMPLETE] - Test Suite1: null</system-err>
+    </testsuite>
+</testsuites>
