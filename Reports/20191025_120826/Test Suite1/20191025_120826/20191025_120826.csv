@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite1,,,,2019-10-25 12:08:36,2019-10-25 12:08:44,7.225s,INCOMPLETE
+,,,,,,,
+Test Cases/Sample API1/ListUsers,,,,2019-10-25 12:08:37,2019-10-25 12:08:44,6.632s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2019-10-25 12:08:37,2019-10-25 12:08:37,0.031s,PASSED
+"sendRequest(findTestObject(""ListUsersRequest""))",,,,2019-10-25 12:08:39,2019-10-25 12:08:42,2.286s,PASSED
+Start listener action : sampleAfterTestCase,,,,2019-10-25 12:08:42,2019-10-25 12:08:42,0.021s,PASSED

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite1,,,,2019-10-23 16:13:59,2019-10-23 16:14:12,12.955s,INCOMPLETE
+,,,,,,,
+Test Cases/Sample API1/ListUsers,,,,2019-10-23 16:14:00,2019-10-23 16:14:09,9.222s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2019-10-23 16:14:00,2019-10-23 16:14:00,0.015s,PASSED
+"sendRequest(findTestObject(""ListUsersRequest""))",,,,2019-10-23 16:14:04,2019-10-23 16:14:07,2.498s,PASSED
+Start listener action : sampleAfterTestCase,,,,2019-10-23 16:14:07,2019-10-23 16:14:07,0.007s,PASSED
+,,,,,,,
+Test Cases/Sample API1/CreateUser,,,,2019-10-23 16:14:09,2019-10-23 16:14:12,3.155s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2019-10-23 16:14:09,2019-10-23 16:14:09,0.008s,PASSED
+"sendRequest(findTestObject(""CreateUser""))",,,,2019-10-23 16:14:09,2019-10-23 16:14:10,0.903s,PASSED
+Start listener action : sampleAfterTestCase,,,,2019-10-23 16:14:10,2019-10-23 16:14:10,0.004s,PASSED

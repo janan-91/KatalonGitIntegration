@@ -16,10 +16,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sample API1/ListUsers</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>9df7c37a-0b0b-4eba-806d-b83c03318370</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Sample API1/CreateUser</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
